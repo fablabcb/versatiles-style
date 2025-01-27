@@ -32,6 +32,8 @@ const config: SpriteConfig = {
 				'chalet',
 				'chemist',
 				'cinema',
+				'citrad_arrow',
+				'citrad_arrow_compact',
 				'clothes',
 				'college',
 				'community',

@@ -29,7 +29,8 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "brace-expansion": "^4.0.0"
+    "brace-expansion": "^4.0.0",
+    "optipng": "^4.2.0"
   },
   "files": [
     "dist/*",

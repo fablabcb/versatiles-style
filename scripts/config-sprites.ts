@@ -34,6 +34,7 @@ const config: SpriteConfig = {
 				'cinema',
 				'citrad_arrow',
 				'citrad_arrow_compact',
+				'citrad_point',
 				'clothes',
 				'college',
 				'community',
